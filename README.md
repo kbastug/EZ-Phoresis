@@ -5,7 +5,7 @@
 This repository contains the files and documentation required to print, assemble, and operate the EZ-Phoresis™ system.
 
 Citation
-If EZ-Phoresis™™ is used in published research, please cite the associated publication:
+If EZ-Phoresis™ is used in published research, please cite the associated publication:
 
 [Citation to be added after publication]
 
