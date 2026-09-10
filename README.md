@@ -1,4 +1,4 @@
-# EZ-Phoresis™™
+# EZ-Phoresis™
 
 **EZ-Phoresis™™** is a 3D-printable gel electrophoresis system designed to provide an accessible, reproducible platform for research and educational laboratory use.
 
