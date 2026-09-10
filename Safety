@@ -1,0 +1,28 @@
+# Safety Warning and Disclaimer
+
+## Electrical Hazard
+
+**WARNING:** EZ-Phoresis is an electrically powered gel electrophoresis device. Electrophoresis power supplies can generate voltages capable of causing electrical shock, serious injury, or death.
+
+Users must understand the electrical and laboratory hazards associated with electrophoresis before constructing or operating this device.
+
+### Required Safety Practices
+
+* Always operate the device with the protective lid fully installed.
+* Never touch the electrophoresis buffer, electrodes, conductive components, or internal wiring while the system is energized.
+* Disconnect the power supply before removing the lid or making any adjustment to the device.
+* Inspect the device, electrodes, wiring, connectors, and lid before each use.
+* Do not operate a damaged, leaking, improperly assembled, or electrically compromised device.
+* Use only a suitable electrophoresis power supply and appropriately rated electrical components.
+* Follow applicable institutional laboratory safety procedures and electrical safety requirements.
+* Appropriate supervision and training are required.
+
+## Disclaimer of Liability
+
+These design files, schematics, assembly guides, and associated materials are provided **“AS IS”**, without warranties of any kind, express or implied.
+
+Users construct, modify, assemble, and operate this device at their own risk and are responsible for determining whether the device is appropriate and safe for their intended application.
+
+To the extent permitted by applicable law, the designer and contributors assume no liability for injury, property damage, data loss, experimental loss, or other damages arising from fabrication, modification, assembly, operation, or use of the device.
+
+EZ-Phoresis is intended for research and educational use and has not been validated or approved for clinical diagnostic use.
