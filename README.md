@@ -4,6 +4,15 @@
 
 This repository contains the files and documentation required to print, assemble, and operate the EZ-Phoresis system.
 
+Citation
+If EZ-Phoresis is used in published research, please cite the associated publication:
+
+[Citation to be added after publication]
+
+Until publication, please cite the repository as:
+
+Bastug K. EZ-Phoresis: a 3D-printable gel electrophoresis system. Version 1.0. 2026. [repository DOI/link].
+
 ## Repository Contents
 
 ### `STL/`
