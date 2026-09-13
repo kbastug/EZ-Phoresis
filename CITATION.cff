@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use EZ-Phoresis in your work, please cite it using the metadata below."
+
+title: "EZ-Phoresis: a 3D-printable gel electrophoresis system"
+
+type: software
+
+version: "1.0"
+
+date-released: 2026-09-13
+
+authors:
+  - family-names: "Bastug"
+    given-names: "Kristen"
+
+repository-code: "https://github.com/kbastug/EZ-Phoresis"
+
+license: "CC-BY-NC-SA-4.0"
+
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Bastug"
+      given-names: "Kristen"
+  title: "EZ-Phoresis: a 3D-printable gel electrophoresis system"
+  year: 2026
+  version: "1.0"
+  publisher: "NIH 3D"
+  doi: ""
