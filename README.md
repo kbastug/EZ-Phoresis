@@ -11,7 +11,7 @@ If EZ-Phoresis™ is used in published research, please cite the associated publ
 
 Until publication, please cite the repository as:
 
-Bastug K. EZ-Phoresis™: a 3D-printable gel electrophoresis system. Version 1.0. 2026. [repository DOI/link].
+Bastug K. (2026). EZ-Phoresis: a 3D-printable gel electrophoresis system. Version 1.0. NIH 3D. https://3d.nih.gov/entries/3DPX-023670
 
 ## Repository Contents
 
