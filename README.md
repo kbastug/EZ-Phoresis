@@ -15,38 +15,50 @@ Bastug K. (2026). EZ-Phoresis: a 3D-printable gel electrophoresis system. Versio
 
 ## Repository Contents
 
-### `STL/`
+### `STL_files/`
 
 Ready-to-print STL files for the 3D-printed components of the EZ-Phoresis™ system.
 
-### `CAD/`
+### `F3D_files/`
 
-Editable CAD/source design files for users who wish to inspect or modify the design.
+Editable F3D design files for users who wish to inspect or modify the design.
 
-### `Instructions/`
+### `STP_files/`
+
+Editable STP design files for users who wish to inspect or modify the design.
+
+### `EZ-Phoresis_Assembly_Instructions/`
 
 Printing, assembly, and operating instructions for the EZ-Phoresis™ system.
 
-### `BOM/`
+### `EZ-Phoresis Bill of Materials/`
 
 Bill of materials listing the non-printed components required for assembly.
 
-### `Images/`
+### `License/`
 
-Reference images, photographs, and assembly diagrams.
+Licenseing information
+
+### `License/`
+
+Licenseing information
+
+### `Safety/`
+
+Important safety information for building and operating this system.
 
 ## Getting Started
 
 To construct an EZ-Phoresis™ system:
 
 1. Download the required STL files from the `STL/` folder.
-2. Review the printing recommendations in the `Instructions/` folder.
+2. Review the printing recommendations in the `EZ-Phoresis_Assembly_Instructions/` folder.
 3. Obtain the required non-printed components listed in the bill of materials.
 4. Follow the assembly instructions to construct the electrophoresis system.
 5. Review the safety information in `SAFETY.md` before connecting or operating the device.
 6. Follow the operating instructions provided with the design.
 
-Users wishing to modify the design should use the editable files in the `CAD/` folder rather than modifying the STL meshes whenever possible.
+Users wishing to modify the design should use the editable files rather than modifying the STL meshes whenever possible.
 
 ## NIH 3D
 
