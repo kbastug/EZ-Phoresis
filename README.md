@@ -39,10 +39,6 @@ Bill of materials listing the non-printed components required for assembly.
 
 Licenseing information
 
-### `License/`
-
-Licenseing information
-
 ### `Safety/`
 
 Important safety information for building and operating this system.
